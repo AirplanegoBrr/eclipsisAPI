@@ -1,0 +1,14 @@
+{
+  "name": "eclipsisapi",
+  "version": "1.0.0",
+  "description": "This is an API for the roblox game called Eclipsis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AirplaneGobrr, xethlyx",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
